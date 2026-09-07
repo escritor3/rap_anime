@@ -1,0 +1,9 @@
+[
+  {
+    "id": "rap_anime_repo",
+    "name": "Rap de Anime & Mangá",
+    "version": "1.0.0",
+    "description": "Playlist de rap de animes e mangás mantida por escritor3",
+    "jsUrl": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime.js"
+  }
+]
