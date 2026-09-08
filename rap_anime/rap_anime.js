@@ -1,5 +1,5 @@
 // Extensão "Rap de Anime e Mangá" para FreeBeat
-const PLAYLIST_URL = 'https://raw.githubusercontent.com/escritor3/rap_anime/main/playlist.json';
+const PLAYLIST_URL = 'https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/playlist.json';
 
 module.exports = {
   id: 'rap_anime_repo',
