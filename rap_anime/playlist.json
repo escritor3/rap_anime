@@ -33,15 +33,15 @@
   },
   {
     "id": "rap_anime_005",
-    "titulo": "O REI DE AMARELO — O ÚLTIMO ATO (O REI DE AMARELO HASTUR) By JM",
-    "artista": "JM_Official",
+    "titulo": "Rap do Joel e Ellie (The Last of Us) - OS ÚLTIMOS DE NÓS NERD HITS",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_005.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_005.jpg"
   },
   {
     "id": "rap_anime_006",
-    "titulo": "Rap do Joel e Ellie (The Last of Us) - OS ÚLTIMOS DE NÓS NERD HITS",
+    "titulo": "Rap do Denji O Maldito Demônio da Motosserra (Nerd Hits)",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_006.mp3",
@@ -49,7 +49,7 @@
   },
   {
     "id": "rap_anime_007",
-    "titulo": "Rap do Denji O Maldito Demônio da Motosserra (Nerd Hits)",
+    "titulo": "Rap do Omni-Man (Invencível) - OLHEM PRO CÉU NERD HITS",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_007.mp3",
@@ -57,7 +57,7 @@
   },
   {
     "id": "rap_anime_008",
-    "titulo": "Rap do Omni-Man (Invencível) - OLHEM PRO CÉU NERD HITS",
+    "titulo": "Rap do Homem de Ferro (Vingadores Ultimato) - EU SOU O HOMEM DE FERRO NERD HITS",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_008.mp3",
@@ -65,7 +65,7 @@
   },
   {
     "id": "rap_anime_009",
-    "titulo": "Rap do Homem de Ferro (Vingadores Ultimato) - EU SOU O HOMEM DE FERRO NERD HITS",
+    "titulo": "Rap do Zabuza (Naruto) - O DEMÔNIO DA NÉVOA OCULTA NERD HITS",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_009.mp3",
@@ -73,7 +73,7 @@
   },
   {
     "id": "rap_anime_010",
-    "titulo": "Rap do Zabuza (Naruto) - O DEMÔNIO DA NÉVOA OCULTA NERD HITS",
+    "titulo": "7 Minutoz - DO PARAÍSO AO INFERNO Rudo Surebrec (Gachiakuta)",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_010.mp3",
@@ -81,7 +81,7 @@
   },
   {
     "id": "rap_anime_011",
-    "titulo": "7 Minutoz - DO PARAÍSO AO INFERNO Rudo Surebrec (Gachiakuta)",
+    "titulo": "Rap do Gaara (Naruto) - CAIXÃO DE AREIA NERD HITS",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_011.mp3",
@@ -89,7 +89,7 @@
   },
   {
     "id": "rap_anime_012",
-    "titulo": "Rap do Gaara (Naruto) - CAIXÃO DE AREIA NERD HITS",
+    "titulo": "Rap do Rock Lee (Naruto) - A FORÇA DA MOTIVAÇÃO NERD HITS",
     "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_012.mp3",
@@ -97,706 +97,818 @@
   },
   {
     "id": "rap_anime_013",
-    "titulo": "Rap do Rock Lee (Naruto) - A FORÇA DA MOTIVAÇÃO NERD HITS",
-    "artista": "7 Minutoz",
+    "titulo": "Chrono - ANO DO PAVÃO Lord Shen (Kung Fu Panda)",
+    "artista": "Chrono",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_013.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_013.jpg"
   },
   {
     "id": "rap_anime_014",
-    "titulo": "Chrono - ANO DO PAVÃO Lord Shen (Kung Fu Panda)",
-    "artista": "Chrono",
+    "titulo": "ESSE REFRÃO ARREPIA! ♪ “Só você” ❤️ Rintaro e Kaoruko JRP Ft. @amandaareia",
+    "artista": "JRP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_014.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_014.jpg"
   },
   {
     "id": "rap_anime_015",
-    "titulo": "ESSE REFRÃO ARREPIA! ♪ “Só você” ❤️ Rintaro e Kaoruko JRP Ft. @amandaareia",
-    "artista": "JRP",
+    "titulo": "Chrono - MENTE VAZIA Bill Cipher (Gravity Falls)",
+    "artista": "Chrono",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_015.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_015.jpg"
   },
   {
     "id": "rap_anime_016",
-    "titulo": "Chrono - MENTE VAZIA Bill Cipher (Gravity Falls)",
-    "artista": "Chrono",
+    "titulo": "Rap do L (Death Note) - O MAIOR DETETIVE NERD HITS",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_016.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_016.jpg"
   },
   {
     "id": "rap_anime_017",
-    "titulo": "Rap do L (Death Note) - O MAIOR DETETIVE NERD HITS",
-    "artista": "7 Minutoz",
+    "titulo": "♪ Mina Dopamina 🔥 Denji e Makima (Chainsaw Man) JRP Ft. @JuuRafaela",
+    "artista": "JRP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_017.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_017.jpg"
   },
   {
     "id": "rap_anime_018",
-    "titulo": "♪ Mina Dopamina 🔥 Denji e Makima (Chainsaw Man) JRP Ft. @JuuRafaela",
-    "artista": "JRP",
+    "titulo": "Fl Studio 10 - Epic x Orchestral Soundtrack Type Instrumental Beat",
+    "artista": "TheBerserkBeatz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_018.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_018.jpg"
   },
   {
     "id": "rap_anime_019",
-    "titulo": "Fl Studio 10 - Epic x Orchestral Soundtrack Type Instrumental Beat",
-    "artista": "TheBerserkBeatz",
+    "titulo": "Skull Knight saves Guts and Casca from the Eclipse (Kinda)",
+    "artista": "Khada Jhin",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_019.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_019.jpg"
   },
   {
     "id": "rap_anime_020",
-    "titulo": "GHOSTEMANE - Mercury",
-    "artista": "ＴＲＡＳＨ 新 ドラゴン",
+    "titulo": "Asap Ferg X Big Sean X Adult Swim - Berserk",
+    "artista": "WARREN BROS.",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_020.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_020.jpg"
   },
   {
     "id": "rap_anime_021",
-    "titulo": "Saber Alter VS Rider Total Sound Re-DESIGN",
-    "artista": "seikatsu audio",
+    "titulo": "Yung_olsi - Guts Caska (prod.yung_olsi)",
+    "artista": "yung_olsi",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_021.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_021.jpg"
   },
   {
     "id": "rap_anime_022",
-    "titulo": "Susumu Hirasawa - Parade",
-    "artista": "Crizz “Chisp” Boi",
+    "titulo": "Ódio (Chihiro Rokuhira) Ranori",
+    "artista": "Ranori",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_022.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_022.jpg"
   },
   {
     "id": "rap_anime_023",
-    "titulo": "Skull Knight saves Guts and Casca from the Eclipse (Kinda)",
-    "artista": "Khada Jhin",
+    "titulo": "CORTE Chihiro Rokihira (Kagurabachi)",
+    "artista": "X-ray",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_023.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_023.jpg"
   },
   {
     "id": "rap_anime_024",
-    "titulo": "[BEST ONE] Siinamota - Young Girl A [BREAKCORE EXTENDED REMIX]",
-    "artista": "slattington",
+    "titulo": "♪ Rudo Surebrec (Gachiakuta) Lixo AniRap",
+    "artista": "AniRap",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_024.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_024.jpg"
   },
   {
     "id": "rap_anime_025",
-    "titulo": "GHOSTEMANE - VENOM",
-    "artista": "Kinda Neat",
+    "titulo": "Enjin ☂️ (Gachiakuta) Umbreaker Feat ‪@Bagguh",
+    "artista": "PeJota*",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_025.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_025.jpg"
   },
   {
     "id": "rap_anime_026",
-    "titulo": "Asap Ferg X Big Sean X Adult Swim - Berserk",
-    "artista": "WARREN BROS.",
+    "titulo": "Gachiakuta Opening 1 HUGs by Paledusk",
+    "artista": "Crunchyroll",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_026.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_026.jpg"
   },
   {
     "id": "rap_anime_027",
-    "titulo": "DEIFIED - Ber$erk FRZ ( Theatrical Version )",
-    "artista": "Fokin Roloz",
+    "titulo": "Rap del Anime - Duki ft. Rod Square (Audio Oficial)",
+    "artista": "luxifer",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_027.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_027.jpg"
   },
   {
     "id": "rap_anime_028",
-    "titulo": "PRIDE.",
-    "artista": "Kendrick Lamar",
+    "titulo": "Kaiser Ness PLAY FOR YOUR KING 😈👑 (Blue Lock) Ashur4",
+    "artista": "Ashur4",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_028.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_028.jpg"
   },
   {
     "id": "rap_anime_029",
-    "titulo": "Gorillaz - Feel Good Inc. (Official Video)",
-    "artista": "Gorillaz",
+    "titulo": "7 Minutoz - AGONIA SpringtrapWilliam Afton (Five Nights At Freddy's)",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_029.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_029.jpg"
   },
   {
     "id": "rap_anime_030",
-    "titulo": "Kidwild - Redemption Ft. Nemzzz [Music Video]",
-    "artista": "Kidwild",
+    "titulo": "TAUZ - MONSTER 3131 DROP NOSTALGICZ",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_030.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_030.jpg"
   },
   {
     "id": "rap_anime_031",
-    "titulo": "SHAKIRA BZRP Music Sessions 5366",
-    "artista": "Bizarrap",
+    "titulo": "Rap da Hinata (Naruto) Ft. Isis Vasconcellos Tauz RapTributo 02",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_031.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_031.jpg"
   },
   {
     "id": "rap_anime_032",
-    "titulo": "Snow Tha Product BZRP Music Sessions 3966",
-    "artista": "Bizarrap",
+    "titulo": "Tauz - Sempre Amei Você Ft. Isis Vasconcellos",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_032.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_032.jpg"
   },
   {
     "id": "rap_anime_033",
-    "titulo": "A Tribe Called Quest - Jazz (We've Got) Buggin' Out (Official HD Video)",
-    "artista": "A Tribe Called Quest",
+    "titulo": "Rap do Assassin's Creed Tauz RapGame 19",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_033.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_033.jpg"
   },
   {
     "id": "rap_anime_034",
-    "titulo": "Yung_olsi - Guts Caska (prod.yung_olsi)",
-    "artista": "yung_olsi",
+    "titulo": "Rap do Warface Tauz RapGame 34",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_034.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_034.jpg"
   },
   {
     "id": "rap_anime_035",
-    "titulo": "TOKEN HIP HOP The Cypher Effect Mic Check Session 24",
-    "artista": "The Cypher Effect: Hip Hop Music Network",
+    "titulo": "Rap do Naruto Tauz RapTributo 05",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_035.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_035.jpg"
   },
   {
     "id": "rap_anime_036",
-    "titulo": "Imitadora - Romeo Santos slowed (instrumental) (end loop)",
-    "artista": "ShinraiMusic",
+    "titulo": "Rap do Sasuke Pt I (Naruto) Tauz RapTributo 06",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_036.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_036.jpg"
   },
   {
     "id": "rap_anime_037",
-    "titulo": "$UICIDEBOY$ - BLOODSWEAT",
-    "artista": "$uicideboy$",
+    "titulo": "Rap do Cristiano Ronaldo (Juventus) Ft. Kanhanga Tauz RapSports 04",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_037.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_037.jpg"
   },
   {
     "id": "rap_anime_038",
-    "titulo": "Ódio (Chihiro Rokuhira) Ranori",
-    "artista": "Ranori",
+    "titulo": "Halo",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_038.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_038.jpg"
   },
   {
     "id": "rap_anime_039",
-    "titulo": "CORTE Chihiro Rokihira (Kagurabachi)",
-    "artista": "X-ray",
+    "titulo": "Isagi Yoichi (Blue Lock) - Egoísta M4rkim",
+    "artista": "M4rkim",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_039.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_039.jpg"
   },
   {
     "id": "rap_anime_040",
-    "titulo": "♪ Rudo Surebrec (Gachiakuta) Lixo AniRap",
-    "artista": "AniRap",
+    "titulo": "Bunny Iglesias 🐇 (Blue Lock) Coelho do Barcha Feat @BDRAPS",
+    "artista": "PeJota*",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_040.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_040.jpg"
   },
   {
     "id": "rap_anime_041",
-    "titulo": "Enjin ☂️ (Gachiakuta) Umbreaker Feat ‪@Bagguh",
-    "artista": "PeJota*",
+    "titulo": "♪ Michael Kaiser (Blue Lock) O Melhor AniRap",
+    "artista": "AniRap",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_041.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_041.jpg"
   },
   {
     "id": "rap_anime_042",
-    "titulo": "Mili - Hero [Limbus Company]",
-    "artista": "Mili",
+    "titulo": "Rap do Seishiro Nagi (Blue Lock) Gênio do Improviso TK RAPS",
+    "artista": "TK RAPS",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_042.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_042.jpg"
   },
   {
     "id": "rap_anime_043",
-    "titulo": "Bang Bang Bang",
-    "artista": "bb-panzu",
+    "titulo": "Bachira Meguru (Blue Lock UK Rap) [Brazillian Funk]",
+    "artista": "Pure O Juice",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_043.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_043.jpg"
   },
   {
     "id": "rap_anime_044",
-    "titulo": "Gachiakuta Opening 1 HUGs by Paledusk",
-    "artista": "Crunchyroll",
+    "titulo": "Além do Ego Isagi Yoichi (Blue Lock) Shooter",
+    "artista": "Shooter_sz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_044.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_044.jpg"
   },
   {
     "id": "rap_anime_045",
-    "titulo": "“Kaiju No. 8” Opening Theme Animation｜'ABYSS' by YUNGBLUD",
-    "artista": "TOHO animation",
+    "titulo": "Isagi e Kaiser Trap 👑⚽ (Blue Lock) Imperador e Egoísta Feat @Shinezinofc , @Atilla021",
+    "artista": "PeJota*",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_045.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_045.jpg"
   },
   {
     "id": "rap_anime_046",
-    "titulo": "Hernâni (com Konfuzo_412) - É Ela (Vídeo Oficial) (2026)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "♫ ESPECIAL 400K (Blue Lock) - As Lendas do Futebol Flash Beats",
+    "artista": "Flash Beats Manow",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_046.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_046.jpg"
   },
   {
     "id": "rap_anime_047",
-    "titulo": "Hernâni - Coke Studio Africa Cypher",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "Don Lorenzo II 🧟 (Blue Lock) Devorador de Ás ‪Feat ‪@BDRAPS",
+    "artista": "PeJota*",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_047.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_047.jpg"
   },
   {
     "id": "rap_anime_048",
-    "titulo": "GPRO - Próximo Ano (com Hernâni da Silva)",
-    "artista": "Giants Produções",
+    "titulo": "Lavinho (Blue Lock) - Pai Ta On Anime Rap JKZ",
+    "artista": "JKZ",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_048.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_048.jpg"
   },
   {
     "id": "rap_anime_049",
-    "titulo": "Lydasse GMT - FAZER O QUÊ (feat. Hot Blaze Hernâni) [Official Music Video]",
-    "artista": "Lydasse GMT",
+    "titulo": "[FREE] PHONK GEEK BEAT - Ranori x Blue Lock x Anirap",
+    "artista": "prodbydarp",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_049.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_049.jpg"
   },
   {
     "id": "rap_anime_050",
-    "titulo": "Hernâni - Pensamento Dum Egoísta (Video Oficial) (2018)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "BLUE LOCK rap song Aizen ft SL!CK - My Awakening (Blue Lock AMV)",
+    "artista": "AIZEN (VIBE SOCIETY)",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_050.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_050.jpg"
   },
   {
     "id": "rap_anime_051",
-    "titulo": "Hernâni - Pwresha (Video Oficial) (2021)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "[SOLD] GEEK BEAT - BLXCK × M4RKIM × ISHIDA INDOMÁVEL",
+    "artista": "BeatByDT",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_051.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_051.jpg"
   },
   {
     "id": "rap_anime_052",
-    "titulo": "Pontas de Lança - Eu Sou Daqui (Video Oficial) (2023)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "[FREE] GEEK TRAP BEAT - BLXCX x ANIRAP x M4RKIM - ZUMBI",
+    "artista": "prodbydarp",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_052.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_052.jpg"
   },
   {
     "id": "rap_anime_053",
-    "titulo": "Hernâni (feat. Nikotina KF) - Nyandayeyo (Remix) (Official Video) (2026)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "♪ Noah e Kaleb (Sense Life) Parceria Formada AniRap e @Shinysz",
+    "artista": "AniRap",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_053.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_053.jpg"
   },
   {
     "id": "rap_anime_054",
-    "titulo": "Hernâni (com Allan e Kloro) - Tu (Video Oficial) (2018)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "Michael Kaiser (Blue Lock) - Imperador Kuv",
+    "artista": "Kuv",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_054.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_054.jpg"
   },
   {
     "id": "rap_anime_055",
-    "titulo": "Hernâni (com Prodígio) - Pai Perdoa-lhes (Video Oficial) (2019)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "[SOLD] Brazilian Phonk Geek Type Beat - LHz x Kaito x Anirap GÊNIO Prod.Theuz",
+    "artista": "Prod' Theuz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_055.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_055.jpg"
   },
   {
     "id": "rap_anime_056",
-    "titulo": "HRC Hernan Ismele - Piérdanse (Video Oficial)",
-    "artista": "HRC",
+    "titulo": "Blue Lock song Aizen - Feed My Ego",
+    "artista": "AIZEN (VIBE SOCIETY)",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_056.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_056.jpg"
   },
   {
     "id": "rap_anime_057",
-    "titulo": "HRC- CUAL ES TU RAZA(PROD. BY HOLY STUDIO)",
-    "artista": "soldier97SR",
+    "titulo": "[FREE] M4rkim x Anirap x Blxck - Geek Type Beat Ego prod. DGD088",
+    "artista": "prod. DGD088",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_057.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_057.jpg"
   },
   {
     "id": "rap_anime_058",
-    "titulo": "HERNÂNI - TUAS SELFIES (PRODUZIDO POR SAM THE KID)",
-    "artista": "TV Chelas",
+    "titulo": "[FREE] GEEK BEAT - ANIRAP x ARK KING x ZANE x OKABE CEMITÉRIO (prod.iuug)",
+    "artista": "prod. iuug",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_058.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_058.jpg"
   },
   {
     "id": "rap_anime_059",
-    "titulo": "Hernâni - Nas Is Like Freestyle",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "Olha Bem Tauz Vevo 05",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_059.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_059.jpg"
   },
   {
     "id": "rap_anime_060",
-    "titulo": "CRESPO X HERNI - ESTADO TERMINAL",
-    "artista": "BUSCAVIDAS H.C",
+    "titulo": "O QUE EU QUERO",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_060.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_060.jpg"
   },
   {
     "id": "rap_anime_061",
-    "titulo": "Hernâni (com Harold) - Sem Alarmes",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "A Vida é um Game Ft. VMZ Sword Art Online",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_061.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_061.jpg"
   },
   {
     "id": "rap_anime_062",
-    "titulo": "Hernâni (com CEF Tanzy Smash Midas) - Canastra (PMN)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "Rap do Minecraft Tauz RapGame 06",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_062.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_062.jpg"
   },
   {
     "id": "rap_anime_063",
-    "titulo": "Hood Prof (com Hernâni) - Light Up Freestyle (Video) (2011)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "Deixando o Fogo Queimar",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_063.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_063.jpg"
   },
   {
     "id": "rap_anime_064",
-    "titulo": "Pontas de Lança - Pontas de Lança (Street Video) (2015)",
-    "artista": "Hernâni da Silva Mudanisse",
+    "titulo": "TAUZ - OBITO 2531 DROP NOSTALGICZ",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_064.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_064.jpg"
   },
   {
     "id": "rap_anime_065",
-    "titulo": "ALLAN, RAY BREYKA, HERNANI, 16 CENAS - NINGUEM FALA NHO [PRODUCED BY PROOFLESS] (THE BOX CYPHER)",
-    "artista": "studio75tv",
+    "titulo": "Rap do Resident Evil 6 Tauz RapGame 20",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_065.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_065.jpg"
   },
   {
     "id": "rap_anime_066",
-    "titulo": "HERNAN MC FT ALEX -TIEMPO LENTO ( SHALOM STUDIO)",
-    "artista": "HERNAN MC🍀",
+    "titulo": "Não dei Ouvidos TauzNaEstrada 04",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_066.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_066.jpg"
   },
   {
     "id": "rap_anime_067",
-    "titulo": "Melisma Rap Romantico Roy D. Hip Hop Latinoamerica (Video Lyric)",
-    "artista": "HIP HOP TV //ARTERIA DEL RAP",
+    "titulo": "Rap do Dark Souls Tauz RapGame 33",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_067.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_067.jpg"
   },
   {
     "id": "rap_anime_068",
-    "titulo": "Killah Rapper (Remix) – Kay Real Com Elfas, 16Cenas, Allan, Hernâni, Real Vice, 3H e Small",
-    "artista": "Portal Hip Hop Em Dia",
+    "titulo": "Rap do Counter Strike CSGO Tauz RapGame 26",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_068.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_068.jpg"
   },
   {
     "id": "rap_anime_069",
-    "titulo": "Ni Cabida - Hernni (H-Rap)",
-    "artista": "Hernan Cheves",
+    "titulo": "Monster (Naruto, Tokyo Ghoul, Bleach) Tauz Vevo",
+    "artista": "Card Tauz Game",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_069.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_069.jpg"
   },
   {
     "id": "rap_anime_070",
-    "titulo": "Rap del Anime - Duki ft. Rod Square (Audio Oficial)",
-    "artista": "luxifer",
+    "titulo": "Rap do Minato (Naruto) Tauz RapTributo 01",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_070.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_070.jpg"
   },
   {
     "id": "rap_anime_071",
-    "titulo": "Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] Worlds 2017 - League of Legends",
-    "artista": "League of Legends",
+    "titulo": "Rap do Coringa (Batman) Tauz RapTributo 12",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_071.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_071.jpg"
   },
   {
     "id": "rap_anime_072",
-    "titulo": "Kaiser Ness PLAY FOR YOUR KING 😈👑 (Blue Lock) Ashur4",
-    "artista": "Ashur4",
+    "titulo": "Seu pior Inimigo Ft. KRC e Spider Beats Team Tauz 03",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_072.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_072.jpg"
   },
   {
     "id": "rap_anime_073",
-    "titulo": "Jaymes Young - Infinity [Official Audio]",
-    "artista": "Jaymes Young",
+    "titulo": "TAUZ - MADARA 1531 DROP NOSTALGICZ",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_073.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_073.jpg"
   },
   {
     "id": "rap_anime_074",
-    "titulo": "7 Minutoz - AGONIA SpringtrapWilliam Afton (Five Nights At Freddy's)",
-    "artista": "7 Minutoz",
+    "titulo": "Rap do Obito (Naruto) Tauz RapTributo 38",
+    "artista": "Nerd Raps",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_074.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_074.jpg"
   },
   {
     "id": "rap_anime_075",
-    "titulo": "Mih Tanino - Our Love is Brilliant (Official Music Video)",
-    "artista": "mihtanino",
+    "titulo": "Rap do Need For Speed Tauz RapGame 23",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_075.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_075.jpg"
   },
   {
     "id": "rap_anime_076",
-    "titulo": "M83 - Solitude (Felsmann + Tiley Reinterpretation) (Official Audio)",
-    "artista": "M83",
+    "titulo": "Rap do Skyrim Tauz RapGame 15",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_076.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_076.jpg"
   },
   {
     "id": "rap_anime_077",
-    "titulo": "True Damage - GIANTS (ft. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) League of Legends",
-    "artista": "League of Legends",
+    "titulo": "Madara II (Naruto)",
+    "artista": "Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_077.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_077.jpg"
   },
   {
     "id": "rap_anime_078",
-    "titulo": "(G)I-DLE - 'Nxde' Official Music Video",
-    "artista": "i-dle (아이들)",
+    "titulo": "Tauz - MADARA",
+    "artista": "Player Tauz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_078.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_078.jpg"
   },
   {
     "id": "rap_anime_079",
-    "titulo": "Justin Bieber - Confident (Audio) ft. Chance The Rapper",
-    "artista": "Justin Bieber",
+    "titulo": "Tipo Sasuke 😎 (Naruto) Style Trap Prod. Sidney Scaccio MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_079.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_079.jpg"
   },
   {
     "id": "rap_anime_080",
-    "titulo": "SiM – The Rumbling (OFFICIAL VIDEO)",
-    "artista": "SiM Official YouTube Channel",
+    "titulo": "Tipo Sasukezin 😎 (Resposta Narutin) Part. Kumode Especial 3M Prod. Sid MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_080.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_080.jpg"
   },
   {
     "id": "rap_anime_081",
-    "titulo": "FLOW - Sign",
-    "artista": "FLOW Official YouTube Channel",
+    "titulo": "Tipo Neymar ✋🏽😜🤚🏽 Hexa (Copa do Mundo 2026 ⭐️) MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_081.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_081.jpg"
   },
   {
     "id": "rap_anime_082",
-    "titulo": "Animal",
-    "artista": "KATSEYE",
+    "titulo": "Tipo Jiraiya 2 😏 (Naruto) Prod. Sidney Scaccio MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_082.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_082.jpg"
   },
   {
     "id": "rap_anime_083",
-    "titulo": "Michael Jackson - Chicago (Official Audio)",
-    "artista": "Michael Jackson",
+    "titulo": "Tipo Tobi 🌀 (Naruto) Style Trap Prod. Sidney Scaccio MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_083.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_083.jpg"
   },
   {
     "id": "rap_anime_084",
-    "titulo": "Imagine Dragons JID - Enemy (from the series Arcane League of Legends) Official Music Video",
-    "artista": "League of Legends",
+    "titulo": "Tipo Narutin 🍜 (Naruto) Style Trap Prod. Sidney Scaccio MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_084.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_084.jpg"
   },
   {
     "id": "rap_anime_085",
-    "titulo": "CHROMANCE – Wrap Me In Plastic (Official Video) - Marcus Layton Mix",
-    "artista": "Marvellous",
+    "titulo": "ULTRA VEGETTO 🟣⚪️ Ft. Ptkzin (Dragon Ball) Prod. Sidney Scaccio MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_085.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_085.jpg"
   },
   {
     "id": "rap_anime_086",
-    "titulo": "Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers",
-    "artista": "Daft Punk",
+    "titulo": "Tipo Madara ☣️ (Naruto) Style Trap MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_086.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_086.jpg"
   },
   {
     "id": "rap_anime_087",
-    "titulo": "Drake - Fair Trade (Audio) ft. Travis Scott",
-    "artista": "Drake",
+    "titulo": "Tipo Itachi e Madara 🔥 (Genju Dos Crias) ft. ÉoDan MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_087.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_087.jpg"
   },
   {
     "id": "rap_anime_088",
-    "titulo": "Edi Rock - That's My Way (Audio Oficial) feat. Seu Jorge",
-    "artista": "Edi Rock",
+    "titulo": "TIPO KISAME e ZABUZA ▬ι══ﺤ ft. TAUZ (Naruto) MHRAP",
+    "artista": "MHRAP",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_088.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_088.jpg"
   },
   {
     "id": "rap_anime_089",
-    "titulo": "The Neighbourhood - Reflections (Official Audio)",
-    "artista": "The Neighbourhood",
+    "titulo": "Kisame e Itachi 🦈👁 (Naruto) Ft.@lilchainz Style Trap Prod. Sidney Scaccio SEM INSTRUMENTAL",
+    "artista": "STORYSGEEK",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_089.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_089.jpg"
   },
   {
     "id": "rap_anime_090",
-    "titulo": "Cafuné - Tek It (I Watch The Moon) [Official Video]",
-    "artista": "CAFUNÉ",
+    "titulo": "Vibe Shinigami 🍎📓 (Death Note ) Ryuk Style Trap Prod. Sidney Scaccio MHRAP16D",
+    "artista": "RAP GEEK 16D",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_090.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_090.jpg"
   },
   {
     "id": "rap_anime_091",
-    "titulo": "Tame Impala - The Less I Know The Better (Audio)",
-    "artista": "Tame Impala",
+    "titulo": "IMORTAL 🙏 (Naruto) Tipo Hidan Style Trap Prod. Sidney Scaccio x Johnny Lowd VERSÃO ESQUILOS",
+    "artista": "Mz Simon",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_091.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_091.jpg"
   },
   {
     "id": "rap_anime_092",
-    "titulo": "TAUZ - MONSTER 3131 DROP NOSTALGICZ",
-    "artista": "Tauz",
+    "titulo": "[REEDIÇÃO] Rap do Mikey (Tokyo Revengers) - O INVENCÍVEL NERD HITS",
+    "artista": "JR Studios",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_092.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_092.jpg"
   },
   {
     "id": "rap_anime_093",
-    "titulo": "Rap da Hinata (Naruto) Ft. Isis Vasconcellos Tauz RapTributo 02",
-    "artista": "Player Tauz",
+    "titulo": "Nika The Sun of Elbaf (One Piece) SONG [legend english]",
+    "artista": "Universe Songs",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_093.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_093.jpg"
   },
   {
     "id": "rap_anime_094",
-    "titulo": "Tauz - Sempre Amei Você Ft. Isis Vasconcellos",
-    "artista": "Tauz",
+    "titulo": "Anime “Dragon Ball Super Beerus” Super Surge Trailer",
+    "artista": "東映アニメーション公式YouTubeチャンネル",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_094.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_094.jpg"
   },
   {
     "id": "rap_anime_095",
-    "titulo": "Rap do Assassin's Creed Tauz RapGame 19",
-    "artista": "Tauz",
+    "titulo": "(SUB ESPAÑOL) Rap del Carnitrix ♪ Ben 10 (Carnitrix) Primitivo AniRap",
+    "artista": "Altair Brando X-500",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_095.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_095.jpg"
   },
   {
     "id": "rap_anime_096",
-    "titulo": "Rap do Warface Tauz RapGame 34",
-    "artista": "Tauz",
+    "titulo": "Rap dos Coringas - CIRCO DOS HORRORES NERD HITS",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_096.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_096.jpg"
   },
   {
     "id": "rap_anime_097",
-    "titulo": "Rap do Naruto Tauz RapTributo 05",
-    "artista": "Tauz",
+    "titulo": "Rap do Nagato Pain (Naruto) - SHINRA TENSEI NERD HITS",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_097.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_097.jpg"
   },
   {
     "id": "rap_anime_098",
-    "titulo": "Rap do Sasuke Pt I (Naruto) Tauz RapTributo 06",
-    "artista": "Tauz",
+    "titulo": "Rap do Hashirama O Primeiro Hokage (NERD HITS)",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_098.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_098.jpg"
   },
   {
     "id": "rap_anime_099",
-    "titulo": "Rap do Cristiano Ronaldo (Juventus) Ft. Kanhanga Tauz RapSports 04",
-    "artista": "Player Tauz",
+    "titulo": "Rap do Obito Mais Ninguém Vai Sofrer o Que Eu Sofri (NERD HITS)",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_099.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_099.jpg"
   },
   {
     "id": "rap_anime_100",
-    "titulo": "Halo",
-    "artista": "Tauz",
+    "titulo": "Rap do Kratos (God of War) - EU SOU UM DEUS NERD HITS",
+    "artista": "7 Minutoz",
     "genero": "rap_anime",
     "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_100.mp3",
     "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_100.jpg"
+  },
+  {
+    "id": "rap_anime_101",
+    "titulo": "Rap do Itachi (Naruto) - ESSA DOR QUE CAUSEI... NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_101.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_101.jpg"
+  },
+  {
+    "id": "rap_anime_102",
+    "titulo": "Rap do Naruto - O SÉTIMO HOKAGE NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_102.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_102.jpg"
+  },
+  {
+    "id": "rap_anime_103",
+    "titulo": "Rap do Hidan (Naruto)VAI COMEÇAR O RITUALNERD HITS(ÁUDIO OFICIAL)7 minutoz",
+    "artista": "Járede Silva",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_103.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_103.jpg"
+  },
+  {
+    "id": "rap_anime_104",
+    "titulo": "Rap do Capitão América (Vingadores_ Ultimato) - EU VOU ME VINGAR NERD HITS - COM GRAVE",
+    "artista": "7MZ Bass Strong",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_104.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_104.jpg"
+  },
+  {
+    "id": "rap_anime_105",
+    "titulo": "Rap do Satoru Gojo (Jujutsu Kaisen) - MAIS PODEROSO DESSE MUNDO TODO NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_105.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_105.jpg"
+  },
+  {
+    "id": "rap_anime_106",
+    "titulo": "Rap do Shisui Meu Sacrifício (NERD HITS)",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_106.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_106.jpg"
+  },
+  {
+    "id": "rap_anime_107",
+    "titulo": "Rap do Deidara (Naruto) - A ARTE É A EXPLOSÃO NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_107.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_107.jpg"
+  },
+  {
+    "id": "rap_anime_108",
+    "titulo": "Rap do Kakashi, Naruto, Sasuke e Sakura - TIME 7 NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_108.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_108.jpg"
+  },
+  {
+    "id": "rap_anime_109",
+    "titulo": "Rap do Minato (Naruto) - O DEVER DE UM PAI NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_109.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_109.jpg"
+  },
+  {
+    "id": "rap_anime_110",
+    "titulo": "Rap do Kakashi (Naruto) - AQUELE QUE COPIA OS 1.000 JUTSUS NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_110.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_110.jpg"
+  },
+  {
+    "id": "rap_anime_111",
+    "titulo": "Rap do Naruto e Kurama (Boruto) - NOSSO ADEUS... NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_111.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_111.jpg"
+  },
+  {
+    "id": "rap_anime_112",
+    "titulo": "Rap do Doflamingo (One Piece) - UM REI NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_112.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_112.jpg"
+  },
+  {
+    "id": "rap_anime_113",
+    "titulo": "Rap do Madara (Naruto) - ME TORNEI UM DEUS NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_113.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_113.jpg"
+  },
+  {
+    "id": "rap_anime_114",
+    "titulo": "Rap do Itadori Yuji e Sukuna (Jujutsu Kaisen) - RECEPTÁCULO DO REI DAS MALDIÇÕES NERD HITS",
+    "artista": "7 Minutoz",
+    "genero": "rap_anime",
+    "url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/audio/musica_114.mp3",
+    "capa_url": "https://raw.githubusercontent.com/escritor3/rap_anime/main/rap_anime/capas/musica_114.jpg"
   }
 ]
